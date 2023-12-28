@@ -92,3 +92,12 @@ hr{
 #services-section{
     margin-top: 50px;
 }
+
+/* info section */
+.info-img{
+    width: 65%;
+}
+
+.info-section{
+    margin-top: 50px;
+}
